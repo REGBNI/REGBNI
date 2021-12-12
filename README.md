@@ -18,7 +18,7 @@ Lover of programming, statistics, research and economics 📊
 - [Rpubs](https://rpubs.com/Raul_GB)
 - [@Dilocondata](https://instagram.com/dilocondata?utm_medium=copy_link)
 
-### Research
+### Research 📄
 
 - [Comercio entre Centroamérica y la Unión Europea: Impacto en la liberalización del comercio y en la productividad total de los factores](https://www.oie.sieca.int/documentos/ver/20211025133241818_Call%20for%20papers_Tercera%20Edici%C3%B3n%202020.pdf)
 - [60 years of productivity: Approaches to its estimation in Nicaragua](https://mpra.ub.uni-muenchen.de/104943/1/MPRA_paper_104934.pdf)
