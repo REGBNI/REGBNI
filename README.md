@@ -5,13 +5,13 @@ Mi nombre es Raúl Godínez, nicaragüense y entusiasta de los datos. Espero pod
 
 I'm Raul Godinez from Nicaragua, and I hope I can contribute something with the content available in my repositories. I’m interested in data analytics, statistics and create applications that facilitate some daily activities.
 
-### Education
+### Education 👨‍🎓
 
-Economics and Business Engineer | National University of Engineering
+Economics and Business Engineer | National University of Engineering 🔰
 
-Lover of programming, statistics, research and economics
+Lover of programming, statistics, research and economics 📊
 
-### Social and contact
+### Social and contact 📨 
 
 - [Resume](https://drive.google.com/file/d/1na5UYYA7fTNJELuDFwj1KYXTL3NhAEYV/view?usp=sharing) 
 - [Linkedin](https://www.linkedin.com/in/raul-godinez-87b984102/)
