@@ -13,7 +13,6 @@ Lover of programming, statistics, research and economics 📊
 
 ### Social and contact 📨 
 
-- [Resume](https://drive.google.com/file/d/1na5UYYA7fTNJELuDFwj1KYXTL3NhAEYV/view?usp=sharing) 
 - [Linkedin](https://www.linkedin.com/in/raul-godinez-87b984102/)
 - [Rpubs](https://rpubs.com/Raul_GB)
 - [@Dilocondata](https://instagram.com/dilocondata?utm_medium=copy_link)
